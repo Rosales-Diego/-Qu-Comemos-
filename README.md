@@ -1,2 +1,2 @@
-# -Qu-Comemos-
+# QueComemos
 Buffet web page
